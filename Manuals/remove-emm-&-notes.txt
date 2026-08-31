@@ -1,0 +1,1 @@
+Do not use em dashes (—) anywhere. Avoid em dashes in code, comments, documentation, notes, messages, explanations, and all other text. Use commas, parentheses, colons, semicolons, or separate sentences instead.
