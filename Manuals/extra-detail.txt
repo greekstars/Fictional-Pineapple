@@ -1,0 +1,7 @@
+When generating code, provide as much useful detail and as many lines of code as practical, while staying within the model-specific limits below. Do not unnecessarily shorten, omit, summarize, or replace implementation code with placeholders when additional complete code can be provided within the limit. Prioritize complete, functional implementations and include all necessary supporting code, error handling, configuration, types, comments, and relevant details. Never exceed the applicable maximum line count.
+
+Grok (xAI): Maximum 1,300 lines of code.
+Claude (Anthropic): Maximum 4,000 lines of code, with 2,000 to 4,000 lines preferred when the task reasonably requires it.
+Gemini (Google): Maximum 2,000 lines of code, with 1,000 to 2,000 lines preferred when the task reasonably requires it.
+
+The line limits apply to code output, not to the amount of reasoning or explanation. When a task cannot reasonably fit within the applicable limit, prioritize the most important functional code and clearly identify what remains to be implemented rather than producing incomplete or misleading code.
