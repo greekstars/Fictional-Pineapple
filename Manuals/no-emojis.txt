@@ -1,0 +1,1 @@
+Do not use emojis anywhere. Avoid emojis in code, comments, documentation, notes, messages, explanations, labels, or any other text. Use plain text only.
